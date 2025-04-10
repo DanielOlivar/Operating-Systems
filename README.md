@@ -1,6 +1,6 @@
-# Operating Systems
+# Operating Systems 🚀
 
-## Description
+## Description 📋
 
 This project is a C programming exercise related to process management in operating systems. It utilizes concepts of pipes, child processes, and file reading/writing to process a character matrix and perform certain operations on it, all in an environment controlled by parent and child processes.
 
@@ -11,38 +11,34 @@ The program does the following:
 4. Uses pipes for communication between the parent and the child processes.
 5. Manages an input file with names, processing each one and generating moves and reports on the positions of characters.
 
-## Requirements
+## Requirements ✅
 
 - Unix-like operating system (Linux, macOS, etc.)
 - C compiler (e.g., GCC)
 - Input files (`nombres.txt`)
 
-## Files
+## Files 🗂️
 
 - **salida.txt**: The file where the processed results are stored.
 - **nombres.txt**: An input file containing a list of names to be processed by the program.
 - **examen2b.c**: The main source code file of the program.
 
 
-## Usage Instructions
+## Usage Instructions 📋
 
-1. Clone this repository:
+1. Clone this repository: 🖥
 
    ```bash
    git clone https://github.com/DanielOlivar/operating-systems.git
    cd operating-systems
 
-
-2. Compile the program:
-  
-  ```bash
+2. Compile the program: 💻
+   ```bash
    gcc examen2b.c -o examen2b
-
-
-3. Run the program:
-
+3. Run the program: ▶️
    ```bash
    ./examen2b
+
 
 
 
