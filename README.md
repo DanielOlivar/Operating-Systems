@@ -39,7 +39,16 @@ The program does the following:
    ```bash
    ./examen2b
 
+---
 
+
+---
+
+### 👨‍💻 Author
+
+**Daniel Olivar**  
+Computer Engineer
+[GitHub: @DanielOlivar](https://github.com/DanielOlivar)
 
 
 
